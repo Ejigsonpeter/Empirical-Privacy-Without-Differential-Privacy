@@ -338,16 +338,7 @@ Please also cite the ImageCLEFmedical GANs 2026 task overview:
 }
 ```
 
-## Authors
 
-* Md Ragib Shaharear
-* Ojonugwa Ejiga Peter
-* Mahmudul Hoque
-* Md Mahmudur Rahman
-
-Department of Computer Science
-Morgan State University
-Baltimore, Maryland, USA
 
 ## Acknowledgments
 
